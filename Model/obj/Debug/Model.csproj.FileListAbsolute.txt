@@ -1,0 +1,15 @@
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\Model\bin\Debug\Model.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\Model\bin\Debug\Model.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\Model\obj\Debug\Model.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\JWManager\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\JWManager\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\JWManager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JWManager\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\JWManager\Model\obj\Debug\Model.pdb
+C:\Users\user\Desktop\JWManager\Model\bin\Debug\Model.dll
+C:\Users\user\Desktop\JWManager\Model\bin\Debug\Model.pdb
+C:\Users\user\Desktop\JWManager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\JWManager\Model\obj\Debug\Model.dll
+C:\Users\user\Desktop\JWManager\Model\obj\Debug\Model.pdb
