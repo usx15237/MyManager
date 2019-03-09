@@ -1,0 +1,27 @@
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\BLL.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\BLL.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\DAL.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\Model.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\DAL.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\bin\Debug\Model.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\obj\Debug\BLL.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\JWManager\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\JWManager\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JWManager\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\JWManager\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\Model.dll
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\JWManager\BLL\bin\Debug\Model.pdb
+C:\Users\user\Desktop\JWManager\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\JWManager\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\JWManager\BLL\obj\Debug\BLL.pdb
