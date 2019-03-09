@@ -1,0 +1,21 @@
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\bin\Debug\DAL.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\bin\Debug\DAL.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\bin\Debug\Model.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\bin\Debug\Model.pdb
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\obj\Debug\DAL.dll
+C:\Users\Memory Is Poison\Documents\Visual Studio 2015\Projects\JWManager\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\JWManager\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\JWManager\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\JWManager\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\JWManager\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\JWManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JWManager\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\JWManager\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\JWManager\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\JWManager\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\JWManager\DAL\bin\Debug\Model.dll
+C:\Users\user\Desktop\JWManager\DAL\bin\Debug\Model.pdb
+C:\Users\user\Desktop\JWManager\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\JWManager\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\JWManager\DAL\obj\Debug\DAL.pdb
